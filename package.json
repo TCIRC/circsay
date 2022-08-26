@@ -1,0 +1,14 @@
+{
+  "name": "circsay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "scripts": {
+    "test": "echo why u exec me?"
+  },
+  "author": "ianiiaannn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

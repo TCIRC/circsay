@@ -1,0 +1,6 @@
+run.sh
+.dockerignore
+Dockerfile
+/.git
+LICENSE
+readme.md
